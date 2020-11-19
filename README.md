@@ -1,2 +1,2 @@
 # gBGC
-Scripts and files for the associated journal publication: "Effective population size predicts rates but not mitigation of read-through errors in eukaryotic genes"
+Scripts and files for the associated journal publication: "Evidence from stop codon utilization that biased gene conversion causes mammalian genomic degradation".
