@@ -1,0 +1,8 @@
+Primates; Homo sapiens, Otolemur garnettii, Callitrix jacchus
+Cows; Bison bison bison, Bos grunniens, Bos taurus
+Dogs; Canis lupis familiaris, Ursus americanus, Vulpes vulpes
+Mice/rodents; Mus musculus, Mus spretus, Rattus norvegicus
+Birds; Gallus gallus, Anas platyrhynchos platyrhynchos, Meleagris_gallopavo
+Flies; Drosophila melanogaster, Drosophila pseudoobscura, Drosophila simulans
+Nematodes; Caenorhabditis briggsae, Caenorhabditis remanei, Caenorhabditis elegans
+Plants; Arabidopsis halleri, Arabidopsis lyrata, Arabidopsis thaliana.
