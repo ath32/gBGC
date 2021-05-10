@@ -1,0 +1,6 @@
+### README ###
+
+The columns in the txt data files are as follows: Species, LEGs enrichment score, HEGs enrichment score, log(Ne), GC content.
+
+PGLS models were computed using the "caper" package in R. Pagel's lambda was estimated by maximum likelihood.
+For calculation of enrichment scores see methods in the paper. 
