@@ -1,0 +1,6 @@
+To assess the role of gene expression in mammalian stop codon evolution we consider experimentally derived protein abundance data downloaded from PaxDb (Wang et al. 2015). As selection acts on protein activity, not mRNA levels, we consider this a robust measure. Files used are as follows:
+
+Human: 9606-WHOLE_ORGANISM-integrated
+Dog: 9615-GPM_2012_09_Canis_familiaris
+Cow: 9913-WHOLE_ORGANISM-integrated
+Mouse: 10090-GPM_201408
