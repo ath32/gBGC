@@ -1,3 +1,6 @@
+''' Estimate trinucleotide equilibrium frequencies from mutational matrix using Markov models.
+    Currently printing only relative TGA equilibrium freq, but can be easily changed to look at any trinucleotide. '''
+
 ### IMPORTS ###
 
 import os
