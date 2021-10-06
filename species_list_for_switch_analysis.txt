@@ -1,8 +1,8 @@
-Primates; Homo sapiens, Otolemur garnettii, Callitrix jacchus
-Cows; Bison bison bison, Bos grunniens, Bos taurus
-Dogs; Canis lupis familiaris, Ursus americanus, Vulpes vulpes
-Mice/rodents; Mus musculus, Mus spretus, Rattus norvegicus
-Birds; Gallus gallus, Anas platyrhynchos platyrhynchos, Meleagris_gallopavo
-Flies; Drosophila melanogaster, Drosophila pseudoobscura, Drosophila simulans
-Nematodes; Caenorhabditis briggsae, Caenorhabditis remanei, Caenorhabditis elegans
-Plants; Arabidopsis halleri, Arabidopsis lyrata, Arabidopsis thaliana.
+Primates; Homo sapiens, Callitrix jacchus, Otolemur garnettii (outgroup)
+Cows; Bos grunniens, Bos taurus, Bison bison bison (outgroup)
+Dogs; Canis lupis familiaris, Vulpes vulpes, Ursus americanus (outgroup)
+Mice/rodents; Mus musculus, Mus spretus, Rattus norvegicus (outgroup)
+Birds; Gallus gallus, Meleagris_gallopavo, Anas platyrhynchos platyrhynchos (outgroup)
+Flies; Drosophila melanogaster, Drosophila simulans, Drosophila pseudoobscura (outgroup)
+Nematodes; Caenorhabditis briggsae, Caenorhabditis remanei, Caenorhabditis elegans (outgroup)
+Plants; Arabidopsis halleri, Arabidopsis lyrata, Arabidopsis thaliana (outgroup)
