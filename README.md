@@ -15,7 +15,7 @@ This repository contains source code for running the core analysis described in 
 
 Note: there is no folder for "Gene expression metrics" as no scripts are necessary for this section of the methods.
 
-In addition to the scripts, here you will also find various accessions and species lists required for repetition of our analyses. If you wish to completely replicate any of our results, please send me an e-mail and we can sort something out (a.t.ho@bath.ac.uk).
+In addition to the scripts, here you will also find various accessions and species lists required for repetition of our analyses. If you wish to completely replicate any of our results, please send me an e-mail and we can sort something out (a.t.ho@bath.ac.uk / xandertho@gmail.com).
 
 Wishing you all the best with your research,
 
