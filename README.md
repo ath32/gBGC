@@ -18,4 +18,5 @@ Note: there is no folder for "Gene expression metrics" as no scripts are necessa
 In addition to the scripts, here you will also find various accessions and species lists required for repetition of our analyses. If you wish to completely replicate any of our results, please send me an e-mail and we can sort something out (a.t.ho@bath.ac.uk).
 
 Wishing you all the best with your research,
-Alex
+
+Alexander T. Ho
