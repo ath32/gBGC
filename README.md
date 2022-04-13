@@ -8,12 +8,11 @@ This repository contains source code for running the core analysis described in 
 - Predicting equilibrium TGA content using flux data
 - Null simulations to assign significance to observed pTGA deviation between two groups of genes
 - Calculating mutational equilibria 
-- Pseudo-autosomal regions, chromosome size, and local recombination rates
 - Assessing the predictive abilities of gene expression and recombination rate
 - PGLS analysis of TGA enrichment and effective population size (Ne)
 - Markov models for simulating null sequences
 
-Note: there is no folder for "Gene expression metrics" as no scripts are necessary for this section of the methods.
+Note: there is no folder for "Gene expression metrics" nor "Pseudo-autosomal regions, chromosome size, and local recombination rates" as no scripts are necessary for this section of the methods.
 
 In addition to the scripts, here you will also find various accessions and species lists required for repetition of our analyses. If you wish to completely replicate any of our results, please send me an e-mail and we can sort something out (a.t.ho@bath.ac.uk / xandertho@gmail.com).
 
